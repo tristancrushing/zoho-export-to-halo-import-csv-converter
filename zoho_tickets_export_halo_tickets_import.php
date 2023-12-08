@@ -82,6 +82,10 @@ function mapData($row) {
     Select CSV file to upload:
     <input type="file" name="fileToUpload" id="fileToUpload">
     <input type="submit" value="Upload and Convert" name="submit">
+    <br>
+    <br>
+    <code>https://customerslug.halopsa.com/config/tickets/settings</code>
+    <p>Click the "Import Tickets" button at bottom of page.</p>
 </form>
 </body>
 </html>
